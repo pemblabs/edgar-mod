@@ -46,5 +46,5 @@ This project is designed to search for breaches reported to the U.S. Securities 
 
 ## Overview
 
-The Edgar Mode System is a Python application that utilizes the SEC's EDGAR database to search for filings related to security breaches. When a new breach is reported, the system sends a notification to a specified Slack channel via a webhook.
+The Edgar Mod System is a Python application that utilizes the SEC's EDGAR database to search for filings related to security breaches. When a new breach is reported, the system sends a notification to a specified Slack channel via a webhook.
 
