@@ -1,0 +1,13 @@
+#  ********** Configuration **********
+endpoint:
+  query: https://www.sec.gov/cgi-bin/current?q1=0&q2=4&q3=
+
+regex:
+  pattern: /Archives/edgar/data/\d+/\d+-\d+-\d{6}
+
+slack:
+  webhook: YOUR WEBHOOK HERE
+
+build:
+  path : https://www.sec.gov
+  ext : .txt
