@@ -29,7 +29,7 @@ headers = {
 
 #  *** Defining Pattern and Global Variable ***
 pattern = config['regex']['pattern']
-filings = [""]
+filings = []
 
 
 #  ********** Functions Sections **********
